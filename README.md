@@ -1,6 +1,3 @@
-Ecco una versione rivista, corretta e formattata professionalmente in Markdown per il file README.md del tuo repository GitHub.
-
-Ho corretto gli errori di sintassi (come git clone invece di clone git), i percorsi delle cartelle e ho reso le istruzioni più chiare per chi deve installarlo.
 
 🧱 Batter Wall Girls
 Un gioco arcade in cui il tuo obiettivo è abbattere il muro di mattoncini colorati. Man mano che avanzi nel gioco, la ragazza sullo sfondo eseguirà azioni di cambio outfit.
