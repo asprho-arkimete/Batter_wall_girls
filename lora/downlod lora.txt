@@ -1,0 +1,1 @@
+scarica su civitai i lora a preferenza del filtro Flux D1 e mettili nella cartella lora
